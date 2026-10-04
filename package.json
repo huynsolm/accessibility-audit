@@ -1,0 +1,10 @@
+{
+  "name": "accessibility-audit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "lint": "node --check src/audit.js && node --check src/app.js"
+  }
+}
