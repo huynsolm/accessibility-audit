@@ -1,4 +1,4 @@
-import { auditDocument } from './audit.js';
+import { auditDocument } from './audit.js?v=d979c2a';
 
 const form = document.querySelector('#audit-form');
 const input = document.querySelector('#html-input');
