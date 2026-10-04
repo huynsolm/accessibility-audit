@@ -1,5 +1,7 @@
 # 접근성 마크업 점검기
 
+[![Verify](https://github.com/huynsolm/accessibility-audit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/huynsolm/accessibility-audit/actions/workflows/ci.yml)
+
 브라우저에서만 실행되는 정적 HTML 접근성 점검 MVP입니다. HTML을 붙여 넣으면 한국어 결과 보고서를 표시합니다.
 
 ## Run
